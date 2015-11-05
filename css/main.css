@@ -1,0 +1,39 @@
+body {
+	color: #666;
+	font-weight: 300;
+	background-color: white;
+    font-family: sans-serif;
+}
+
+a { 
+	color: #118DC3;
+	text-decoration: none;
+}
+
+#container {
+    margin:auto;
+    background-color: ghostwhite;
+    min-width: 400px;
+    max-width: 600px;
+    text-align: center;
+    z-index: 1;
+    border-radius: 10px;
+}
+
+img {
+    height: 1.1em;
+    width: 1.1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
